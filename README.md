@@ -11,9 +11,9 @@ Output -
 Values of the stamps that can be used to represent the input value.
 
 Example 1 : 
-Input: 19
+Input: 19    
     Output: 5 5 5 4
     
-Example 2:
-Input: 28
+Example 2 :
+Input: 28    
     Output: 4 4 4 4 4 4 4
